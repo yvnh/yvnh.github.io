@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Pages에 문제가 있습니까? 우리의 확인 [문서] (https://docs.github.com/categories/github-pages-basics/) 또는 [접촉 지원] (https://github.com/contact) 우리는 당신을 일종의 도움이됩니다 밖.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
