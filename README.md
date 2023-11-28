@@ -30,7 +30,7 @@
   <section>
     <h2>Contact</h2>
     <p>
-      For inquiries or to discuss your translation needs, feel free to reach out to me at <a href="realfactonly@gmail.com">[realfactonly@gmail.com]</a>. I look forward to assisting you!
+      For inquiries or to discuss your translation needs, feel free to reach out to me at <a href="yvnh@icloud.com">[yvnh@icloud.com]</a>. I look forward to assisting you!
     </p>
   </section>
 
