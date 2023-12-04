@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en, fr, kr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<p style="font-family:'-apple-system','system-ui','BlinkMacSystemFont',"Helvetica Neue","Segoe UI",'Roboto','Arial','sans-serif'">
-
+  <style>
+    body {
+      font-family: '-apple-system','system-ui','BlinkMacSystemFont','Helvetica Neue','Segoe UI','Roboto','Arial','sans-serif';
+    }
+  </style>
 </head>
 <body>
+  <!-- English Version -->
   <header>
     <h1>Transolution - Translation Services</h1>
     <p>Professional Translation Services</p>
@@ -30,12 +33,74 @@
   <section>
     <h2>Contact</h2>
     <p>
-      For inquiries or to discuss your translation needs, feel free to reach out to me at <a href="yvnh@icloud.com">[yvnh@icloud.com]</a>. I look forward to assisting you!
+      For inquiries or to discuss your translation needs, feel free to reach out to me at <a href="mailto:yvnh@icloud.com">yvnh@icloud.com</a>. I look forward to assisting you!
     </p>
   </section>
 
   <footer>
     <p>&copy; 2023 Transolution - Translation Services</p>
+  </footer>
+
+  <!-- French Version -->
+  <header>
+    <h1 lang="fr">Transolution - Services de Traduction</h1>
+    <p lang="fr">Services Professionnels de Traduction</p>
+  </header>
+
+  <section lang="fr">
+    <h2>A propos de moi</h2>
+    <p>
+      Bienvenue sur mon site web ! Je suis un traducteur professionnel proposant des services de traduction de haute qualité. Avec une expertise en anglais, français et coréen. Je m'assure de traductions précises et culturellement sensibles pour diverses industries.
+    </p>
+  </section>
+
+  <section lang="fr">
+    <h2>Services</h2>
+    <p>
+      Je propose des services de traduction pour des documents, des sites web, et plus encore. Que vous ayez besoin de traductions commerciales, juridiques ou techniques, je suis là pour vous aider à combler le fossé linguistique.
+    </p>
+  </section>
+
+  <section lang="fr">
+    <h2>Contact</h2>
+    <p>
+      Pour des demandes d'informations ou discuter de vos besoins en traduction, n'hésitez pas à me contacter à l'adresse suivante : <a href="mailto:yvnh@icloud.com">yvnh@icloud.com</a>. Je me réjouis de vous aider !
+    </p>
+  </section>
+
+  <footer lang="fr">
+    <p>&copy; 2023 Transolution - Services de Traduction</p>
+  </footer>
+
+  <!-- Korean Version -->
+  <header>
+    <h1 lang="ko">트랜솔루션 - 번역 서비스</h1>
+    <p lang="ko">전문 번역 서비스</p>
+  </header>
+
+  <section lang="ko">
+    <h2>저에 대하여</h2>
+    <p>
+      제 웹사이트에 오신 것을 환영합니다! 저는 고품질의 번역 서비스를 제공하는 15년 이상 경력의 전문 번역가입니다. 영어, 프랑스어, 한국어에 대한 전문 지식으로 다양한 산업에 정확하고 문화적으로 세밀한 번역을 제공합니다.
+    </p>
+  </section>
+
+  <section lang="ko">
+    <h2>서비스</h2>
+    <p>
+      문서, 웹사이트 등 다양한 매체에 대한 번역 서비스를 제공합니다. 비즈니스, 법률, 기술 번역이 필요하시면 언제든지 얘기해주세요. 언어 간의 격차를 줄이기 위해 도움을 드리겠습니다.
+    </p>
+  </section>
+
+  <section lang="ko">
+    <h2>연락처</h2>
+    <p>
+      번역 견적에 대해 문의 사항이 있으시면 언제든지 저에게 연락해주세요. <a href="mailto:yvnh@icloud.com">yvnh@icloud.com</a> 으로 연락주시면 신속하게 답변 드리겠습니다! 감사합니다!
+    </p>
+  </section>
+
+  <footer lang="ko">
+    <p>&copy; 2023 트랜솔루션 - 번역 서비스</p>
   </footer>
 </body>
 </html>
