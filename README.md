@@ -3,11 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: '-apple-system','system-ui','BlinkMacSystemFont','Helvetica Neue','Segoe UI','Roboto','Arial','sans-serif';
-    }
-  </style>
 </head>
 <body>
   <!-- English Version -->
